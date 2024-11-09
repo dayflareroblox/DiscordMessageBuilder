@@ -1,0 +1,10 @@
+title = "DiscordMessageBuilder"
+
+[[navbar.items]]
+href = "https://discord.gg/gyQ4VWqMY9"
+label = "Discord"
+position = "right"
+
+[footer]
+style = "dark"
+copyright = "Copyright © 2024 FlareDevelopments. Built with Moonwave and Docusaurus"
