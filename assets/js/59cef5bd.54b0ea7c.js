@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[354],{7636:e=>{e.exports=JSON.parse('[{"type":"link","href":"/api/DiscordEmbed","label":"\u200bDiscord\u200bEmbed"},{"type":"link","href":"/api/DiscordMessageBuilder","label":"\u200bDiscord\u200bMessage\u200bBuilder"}]')}}]);

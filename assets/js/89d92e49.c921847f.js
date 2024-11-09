@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[487],{3891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/dayflareroblox/DiscordMessageBuilder/blob/master","baseUrl":"/DiscordMessageBuilder/","classOrder":[],"apiCategories":[]}')}}]);
